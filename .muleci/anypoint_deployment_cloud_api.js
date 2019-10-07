@@ -1,7 +1,7 @@
 // ===================================================================================
 // === Author: Igor Repka @ MuleSoft                                               ===
-// === Email: igor.repka@mulesoft.com                                              ===
-// === version: 0.1					                                               ===
+// === Email: igor.repka@mulesoft.com, prabakaran.perumalsamy@appbank.digital                                              ===
+// === version: 0.2					                                               ===
 // === Description: 					                                           ===
 //     Script manages CloudHub deployment of applications configured in deployment ===
 //     descriptor configuration file.	 										   ===
